@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right of kings and the duty of subjects a Christian discourse proving that it is not lawful for subjects upon any ground or pretence whatever to rebel against their lawful king / written by P. Charron, Parisian, author of the book of Wisdom ; now Englished by J.R.</title>
+            <title>Discours chrestien, qu'il n'est permis ny loisible a un subiect de se liguer, bander, et rebeller contre son roy. English.</title>
+            <author>Charron, Pierre, 1541-1603.</author>
+         </titleStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32735</idno><idno type="EEBO-CITATION">26779114</idno>
+  <idno type="VID">109794</idno>
+  <idno type="EEBO-PROQUEST">2240881008</idno>
+  
+            <idno type="STC">Wing C3721</idno>
+            <idno type="STC">ESTC R43091</idno>
+            <idno type="OCLC">26779114</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A32735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109794)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1713:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right of kings and the duty of subjects a Christian discourse proving that it is not lawful for subjects upon any ground or pretence whatever to rebel against their lawful king / written by P. Charron, Parisian, author of the book of Wisdom ; now Englished by J.R.</title>
+                  <title>Discours chrestien, qu'il n'est permis ny loisible a un subiect de se liguer, bander, et rebeller contre son roy. English.</title>
+                  <author>Charron, Pierre, 1541-1603.</author>
+                  <author>J. R.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Simon Miller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1684?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Discours chrestien, qu'il n'est permis ny loisible a un subiect de se liguer, bander &amp; rebeller contre son roy--cf. NUC.</note>
+                  <note>Imperfect: stained and tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Divine right of kings.</term>
+               <term type="topical_term">Kings and rulers --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109794:1"/>
+            <p>THE RIGHT OF KINGS, AND THE Duty of Subjects: A CHRISTIAN DISCOURSE PROVING That it is not Lawful for SUBJECTS upon any Ground or Pretence whatever to Rebel against their Lawful KING.</p>
+            <p>Written by <hi>P. Charron,</hi> Parisian, Author of the Book of <hi>Wisdom.</hi> Now Englished by <hi>J. R.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PROV. 24.21.</hi>
+               </bibl>
+               <p>
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Son, fear thou the Lord, and the King and meddle not with them that are given to change.</p>
+               <p>
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King, a Faith, a Law, is a Trinity of State, which is so reduced <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>to the Ʋnity of the King, that there never was any defection against <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Prince, but the Authority of the Law, and the Majesty of Reli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion were greatly impaired by it.</p>
+               <bibl>
+                  <hi>T.</hi> or <hi>F. C.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Simon Miller</hi> at the Star in S. <hi>Paul</hi>'s Church yard.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:109794:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Enry</hi> the third King of <hi>France,</hi> being a mild and peace<g ref="char:EOLhyphen"/>able Prince, and one who would not use rigour against the Protestants in this Dominions, they of the house of <hi>Guise</hi> took occasion thereupon to slander their King, that he was an enemy to the Roman Catholick Religion, and under the fair pretence of Religion screw'd themselves into the favour of the com<g ref="char:EOLhyphen"/>mon people (who are usually deceived by such pretences,) raising a strong party against the King, by the name of the holy League, which caused much confusion in that Kingdom: Many sober and understanding Ro<g ref="char:EOLhyphen"/>man Catholicks did not like of this League; for they saw that it tended rather to the ruine than to the settlement of their Countrey, and that the Duke of <hi>Guise</hi> and the Cardinal his Brother sought their own ad<g ref="char:EOLhyphen"/>vancing most of all, such is the nature of Ambition to look always for<g ref="char:EOLhyphen"/>ward and never backward. In those times and upon this occasion Mr. <hi>P. Charon,</hi> the Author of that learned Book of <hi>Wisdom,</hi> wrote this Letter <hi>of the unlawfulness of Subjects to rise against their King,</hi> the which because it agrees so well with the late troubles in this Kingdom of <hi>England,</hi> I have taken the boldness to present it to publick view: and although it was written by a Roman Catholick, yet his opinion concern<g ref="char:EOLhyphen"/>ing the obedience due unto Kings, is very consonant to the Doctrine of the true Christian Protestant Religion, which will be seriously considered of those who have not denied the power of godliness.</p>
+            <closer>
+               <salute>Farewel.</salute>
+               <lb/>
+               <hi>Ut sides, sic veritas, non à personis,<lb/> sed contrá.</hi>
+               <lb/>
+               <signed>Your Friend<lb/>
+                  <hi>J. R.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:109794:2"/>
+            <head>A CHRISTIAN DISCOURSE, PROVING, That it is not lawful for Subjects, upon any ground, to make a League, Plot, and Rebel against their King: Being a Letter written to a Doctor of <hi>Sorbone,</hi> by <hi>P. Charon, Parisian.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Ut I would fain know, what you think of these times: This publick revolution, although the monstrous, hor<g ref="char:EOLhyphen"/>rible and bloody exploits of it were set aside, doth it not afflict us? By the grace of God as for my self, I am well enough, in regard of many others. But the wounds which my imagination receiveth and suffereth by it, are such, that what remaineth in me, is much the weaker. It seems there is no reason to be quite free from it, yet would I be hidden in some corner, for to hear nothing but when all is over, and then I wish one would tell me stories of it. Let us leave that, and come to what is of conscience. I will confess my self to you, and freely say what I think of it.</p>
+            <p>For a time I was about to turn on the League's side, and had gone half way. For in truth I was never wholly of it, nor resolute<g ref="char:EOLhyphen"/>ly, nay their actions have exceedingly offended me. What had moved me to it was chiefly the<note n="*" place="margin">
+                  <hi>Henry</hi> the third King of <hi>France,</hi> caused the Duke of <hi>Guise,</hi> and the Cardinal of <hi>Lorraine,</hi> to be put to death, who were the chief of the League.</note> fact of <hi>Blois,</hi> which troubled me much, not for any other rea<g ref="char:EOLhyphen"/>son, than the defect I did find in the manner and proceeding of the execution. But this great heat of anger and indignation being somewhat cooled, and having heard many o<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll for a talk of it; consulting often within my self what in conscience one ought to esteem and believe of this matter in the end I found my self very much changed. For I first found doubtful, then evil, lastly horrible and abominable, what before seem'd to me not only to<g ref="char:EOLhyphen"/>lerable, but good and expedient, and became to be greatly ashamed of my self, and to have pity and compassion of others, whom I saw
+<pb facs="tcp:109794:3"/>continuing yet in my errour. And earnestly seeking why I went thus astray, being I knew well enough before, whatsoever made me come back and recant, I found it was passion and fury, and that I had had some conceit of the League, I was always as it were in an<g ref="char:EOLhyphen"/>ger, in a continual feaver and agitation; whence I have learned to my cost, that it is impossible to be moved and wise both together. The beginning of my re-advisement came from a sentence of good <hi>Cassiodorus,</hi> who says; <hi>Nullam satis justam causam vi<g ref="char:EOLhyphen"/>deri posse, adversus patriam arma capiendi;</hi> one cannot find out a just cause enough, to take up Arms against ones Countrey; which I remembered. I will not here plead the Kings Cause, nor insist upon the accusation or justification of the King and of the League, many Pamphlets do speak of all that. I have seen some of them, every where me thinks one may adde, both to the accusations and justifications, so that in them the case is not entire. But I grant that all that the League says of the King be true (although what<g ref="char:EOLhyphen"/>soever they alledge against him be either calumny, or meer impo<g ref="char:EOLhyphen"/>sture, or else conjectures and divinations for the time to come; whereupon it should not be lawful so much as to impeach the wretchedest man in the world, and the basest that ever was, and that one can imagine) What will we, what can we conclude of that? That it is lawful for French-men to rise up in arms against him? <hi>Per quam regulam?</hi> by what rule that? is there any Law, rule, de<g ref="char:EOLhyphen"/>cision, example, sentence that serves for it? Let us speak seriously and in conscience as before God: for I swear and protest that I have no private end. I find three points of Doctrine in the holy Scriptures, concerning this matter, to obey, or disobey Soveraigns. <hi>Primò,</hi> First, we have an express commandement to obey Kings directed to all in general: <hi>Omnis anima potestatibus sublimioribus subdita sit;</hi> let every soul be subject unto the higher powers, <hi>Rom.</hi> 13. And this with two very notable additions for the time pre<g ref="char:EOLhyphen"/>sent. The one to obey all, as well good as bad: for in matter of obedience, the goodness or malice of the Superior doth not come at all into consideration, neither ought it to hasten, or slacken, heat, or cool subjects to obey. For the commandement and obli<g ref="char:EOLhyphen"/>gation of obeying, stands upon that which is of God, to wit upon his ordinance, and not upon what is of man. <hi>Non est potestas nisi à
+<pb facs="tcp:109794:3"/>Deo, &amp; potestas à Deo ordinata est; itaque qui potestati resistit, Dei ordinationi resistit;</hi> There is no power but of God, and the pow<g ref="char:EOLhyphen"/>er is ordained of God, therefore he that resisteth the power, resi<g ref="char:EOLhyphen"/>steth the ordinance of God, <hi>Rom.</hi> 13. In saying that all power is of God, he neither excepts, nor excludes any; saying that it is the ordinance of God, he forbiddeth us to cast down our eyes upon the merits or demerits, worth, goodness, indignity of persons. It is not reason that the defect of men should abate any thing of the intention, and ordinance of God. Besides, the examples of <hi>Nebu<g ref="char:EOLhyphen"/>thadnezzar, Saul, Caesar,</hi> are plain. To alledge the tyranny, wick<g ref="char:EOLhyphen"/>edness, insufficiency, negligence of Kings, 'tis to say they are wicked, but it hinders them not from being true Kings. Now we ought to obey them, not because they are good, but because they are true, that is lawful; for we ought in all things to know how to distinguish between true, and good; false, and wicked. The Son of God saith indeed we should <hi>take heed of false Prophets,</hi> but not of wicked ones. Otherwise matters should never be at an end, we must go out of this world. On the contrary he would have us to obey the wicked, such as were the Scribes and Pharisees who were quite wicked: but because they were true and sate in the chair of <hi>Moses,</hi> the Son of God commands to obey them. The other ad<g ref="char:EOLhyphen"/>dition is that obedience be given them, <hi>Mat.</hi> 17. not for any hu<g ref="char:EOLhyphen"/>mane politick consideration, as for necessity, <hi>quasi malum sit ne<g ref="char:EOLhyphen"/>ussarium;</hi> as if it were a necessary evil, or for the utility that comes from thence to humane society, or to avoid the troubles and misfortunes which might arise, if one would disobey or change any thing in State; but for a spiritual and conscientious consideration. <hi>Non solùm propter iram,</hi> not only for anger, saith S. <hi>Paul, sed etiam propter conscientiam,</hi> but also for conscience sake, <hi>Rom.</hi> 13. And a little before he said, <hi>Qui resistunt, ipsi sibi damnationem acquirunt;</hi> They that resist, do receive damnation to themselves. There is the first point which contains the commandement of obeying, most ex<g ref="char:EOLhyphen"/>press, most general, most ample and well stored. But is this com<g ref="char:EOLhyphen"/>mandement so absolute that there is no exception? Is there never cause to disobey? Yes, there is: and this is the second point. The holy Scriptures teach, not to obey: but it is in a certain case only: it is when they command things contrary to God. How, say I? For
+<pb facs="tcp:109794:4"/>let Soveraigns live, think, speak, and do what they will against Go<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> nature, and all Laws; that falleth upon their own account; a subject is not to prie into it: it is a crime to speak of it, and to detract from it, <hi>Mat.</hi> 17. <hi>Rom.</hi> 13, &amp; 14. What presumption is it, what rage, to controul, judge and condemn the actions, and deportments of ones Soveraign? it is not lawful to do it towards ones neighbour, ones companion, the Scripture forbids it; will we have more authority and right over our King, than the King doth exercise over his sub<g ref="char:EOLhyphen"/>jects? He doth not go and see nor search into closets. That is wor<g ref="char:EOLhyphen"/>thy the curse of <hi>Cham,</hi> and <hi>Chanaan,</hi> to discover and publish the na<g ref="char:EOLhyphen"/>kedness of ones Superiour, ones King: but when not being content to live, do, and speak, they will yet by Acts and Ordinances, by ex<g ref="char:EOLhyphen"/>press command and by force constrain their subjects to do things contrary to God, then and in this case their superiority and power ceaseth, which is subordinate to that of God, as they acknowledg it, calling themselves Kings by the grace of God. God is their Supe<g ref="char:EOLhyphen"/>riour, God is the first and ancientest creditor, to whom we are ra<g ref="char:EOLhyphen"/>ther obliged, and by a stricter obligation, whom we ought rather to pay and satisfie: (neither do we obey Kings, but to obey God who commandeth it, and hath installed them:) in such a case the word of God dispenseth us from obeying them, saying that <hi>we ought to obey God rather than men,</hi> Acts 5. And our Saviour saith, that <hi>we must not fear those who have power on the body, and none upon the soul; but him who hath power upon both,</hi> Matth. 10. But also we must not forget, that although they command things contrary to God, and that in such a case we must not obey them, yet they still remain true Kings, preserve their power and authority, and that obedience is due to them in all other things, 21. <hi>q.</hi> 3. <hi>C. Julianus. Julian</hi> the Apostate persecuting Christianity, which he had made profession of, and under the title whereof he had taken possession of the Empire, was acknowledged true Emperour, and obeyed of the Christians in War, and all other things, except the abjuration of their Religion, as S. <hi>Ambrose</hi> and S. <hi>Austin</hi> do say, and History re<g ref="char:EOLhyphen"/>lateth it enough. Neither is it to be admitted, what some say, that the Christians in those days were not strong enough to get into au<g ref="char:EOLhyphen"/>thority. 'Tis to be too much ignorant of History: The Army, the <hi>Roman</hi> Legions, yea <hi>totus orbis Romanus,</hi> the whole <hi>Roman</hi> world,
+<pb facs="tcp:109794:4"/>were then Christians. If there was yet any Heathen remaining, it was not one a hundred. The principal Commanders and great Captains were Christians, it was seen after his death, that without any dispute or difficulty, the Empire as unanimously given to <hi>Jovinian</hi> a Christian, who had been a great man, and <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s the first next to <hi>Julian.</hi> But what will they say of those Emperors which <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ame afterwards, and were Hereticks, as <hi>Valens, Zeno, Leo Isauricus,</hi> who were Arrians; <hi>Anastasius,</hi> an Eutychian; and others who persecuting the Ca<g ref="char:EOLhyphen"/>tholicks, were nevertheless acknowledged Emperours, and obeyed by the Ca<g ref="char:EOLhyphen"/>tholicks without dispute or contradiction? But it is not enough to say that we must not obey them, for we must not stay here: We must know what we right to do, and learn the right and lawful remedies in such cases, or in such extremity. This is the third point. I find that the Scripture giveth us two remedies, <hi>Fugere aut pati;</hi> I find not a third; one of these remedies is to go a<g ref="char:EOLhyphen"/>ny, flye, leave our Country, and land. The other to suffer and endure all things. The Son of God hath taught us both wayes, by word and deed. <hi>If they persecute you in one City, fly into another: Ye are happy if ye suffer for my name.</hi> Thus have good men done, thus our Master. It is not reason that the servant and Disciple should be better used. The third remedy is, not to fly, nor en<g ref="char:EOLhyphen"/>dure, or stay for the blow, but to prevail by force, to rise up in arms. Where is written, let the<note n="*" place="margin">
+                  <hi>Sorbone</hi> is a Colledge of Divines in <hi>Paris;</hi> hence the Doctors of <hi>Sorbone.</hi>
+               </note> whole <hi>Sorbone,</hi> let the whole <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ague together shew it me, if they can. But it is easie <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o shew the contrary. <hi>Nebuchadnezzar</hi>
+               <note n="*" place="margin">The League was the <hi>Guisian</hi> faction, who un<g ref="char:EOLhyphen"/>der pretence of maintain<g ref="char:EOLhyphen"/>ing the <hi>Roman</hi> Catholick Religion, undermined the Kings authority, and sought to advance themselves.</note> and <hi>Caesar,</hi> sides that they were both Idolaters, they were not <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e and lawful Kngs by the ordinary way, but strangers, usurpers, who by force of Arms had seised on, and in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ded the Country of <hi>Israel,</hi> Kings by fact, and not by <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ght: yet it is commanded to obey <hi>Nebuchadnezzar.</hi>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d in <hi>Jer.</hi> 27. all those are called false Prophets, <hi>that <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ld perswade the peole not to obey him.</hi> And it is com<g ref="char:EOLhyphen"/>manded by our Saviour <hi>to give unto Caesar what is his.</hi> And S. <hi>Paul</hi> appealed unto <hi>Caesar,</hi> which was <hi>Nero,</hi> the wickedest and wretchedest that ever was born of a woman. All that is far from rebelling. The aforesaid examples of <hi>Julian</hi> the A<g ref="char:EOLhyphen"/>postate, and other heretick Emperours do also shew well enough the contrary. <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is lawful not to obey, and this in a certain ease only; but to rebel and use <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rce and violence, never. Between not obeying, and fighting against, there <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a vast distance, as between omission, and commission, between the child that <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eyeth not his Father, who commandeth him to kill his Mother; and the child <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>at will cut his Fathers throat, and doth persecute him to the uttermost. O <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xellency of the Gospel! O purity of the Christian Doctrine! which giveth us good and sweet a qualification in such pressing and desperate extremities, so a means, that all is safe without violence, which is so contrary to Christian <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>arity and meekness. There is no contrariety of Laws in the Gospel. The
+<pb facs="tcp:109794:5"/>Commandements of obeying God, not resisting Soveraigns, not hindering <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> another; for God and the King, are they contrary? duty and force do <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> justle one another? There is a good remedy for this, which is in everyo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hand, without breaking any thing. Art thou faint-hearted? go away, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>The earth is the Lords,</hi> we go sometimes abroad for lighter occasions: <hi>Give <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to wrath,</hi> to force, and save thy self with God. Is thy heart good? never <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing came more seasonably, make a sacrifice unto God of all thou hast, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thy self. Do two things at once, yea three: Make haste to pay thy tribute <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nature; also for thy last act, do an excellent service to God, and a very go<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and perpetual profit for thy self. This is the doctrine of the Son of God. <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then I say it more briefly than all those who dispute, deny, excuse, conn<gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> justice, and plead all along. I say in a word, Although all what the Le<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> saith, were true, which is not, and yet worse than all that: Notwithstan<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it is never lawful, for any cause whatsoever, to use force and violence again<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ones Soveraign, it is rather a wicked, cursed, and pernicious thing. Now <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> security in their conscience can all those of the League have, to be so futi<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> a<g ref="char:EOLhyphen"/>gainst their true, natural and lawful King; though he should be quite s<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> one as they set him forth? I say then, that there is no Heaven for them <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are against the King, and dying in such a condition, though there should <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nothing else amiss in them; they carry away with them their condemnati<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and for the over-weight, and aggravation of it, they partake of all the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thers, treasons, robberies, scandals, villanies that are done every wh<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which they are the cause of.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
